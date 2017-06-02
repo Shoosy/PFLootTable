@@ -1,0 +1,1232 @@
+Simple Weapons Cost Dmg (S) Dmg (M) Critical Range Weight1 Type2 Special
+____________________________________________________________________
+Unarmed Attacks
+Gauntlet 2 gp 1d2 1d3 ×2 — 1 lb. B —
+Unarmed strike — 1d2 1d3 ×2 — — B nonlethal
+Light Melee Weapons
+Dagger 2 gp 1d3 1d4 19–20/×2 10 ft. 1 lb. P or S —
+Dagger, punching 2 gp 1d3 1d4 ×3 — 1 lb. P —
+Gauntlet, spiked 5 gp 1d3 1d4 ×2 — 1 lb. P —
+Mace, light 5 gp 1d4 1d6 ×2 — 4 lbs. B —
+Sickle 6 gp 1d4 1d6 ×2 — 2 lbs. S trip
+
+
+One-Handed Melee Weapons
+_____________________________________________________________________
+Club — 1d4 1d6 ×2 10 ft. 3 lbs. B —
+Mace, heavy 12 gp 1d6 1d8 ×2 — 8 lbs. B —
+Morningstar 8 gp 1d6 1d8 ×2 — 6 lbs. B and P —
+Shortspear 1 gp 1d4 1d6 ×2 20 ft. 3 lbs. P —
+Two-Handed Melee Weapons
+Longspear 5 gp 1d6 1d8 ×3 — 9 lbs. P brace, reach
+Quarterstaff — 1d4/1d4 1d6/1d6 ×2 — 4 lbs. B double, monk
+Spear 2 gp 1d6 1d8 ×3 20 ft. 6 lbs. P brace
+Club — 1d4 1d6 ×2 10 ft. 3 lbs. B —
+Heavy mace 12 gp 1d6 1d8 ×2 — 8 lbs. B —
+Mere club 2 gp 1d3 1d4 ×2 — 2 lbs. B or P Fragile
+Morningstar 8 gp 1d6 1d8 ×2 — 6 lbs. B and P —
+Shortspear 1 gp 1d4 1d6 ×2 20 ft. 3 lbs. P —
+
+
+Two-Handed Melee Weapons
+____________________________________________________________________
+Bayonet 5 gp 1d4 1d6 ×2 — 1 lb. P —
+Boar spear 5 gp 1d6 1d8 ×2 — 8 lbs. P Brace, see text
+Longspear 5 gp 1d6 1d8 ×3 — 9 lbs. P Brace, reach
+Quarterstaff — 1d4/1d4 1d6/1d6 ×2 — 4 lbs. B Double, monk
+Spear 2 gp 1d6 1d8 ×3 20 ft. 6 lbs. P Brace
+
+Ranged Weapons
+___________________________________________________________________
+Blowgun 2 gp 1 1d2 ×2 20 ft. 1 lb. P —
+Darts, blowgun (10) 5 sp — — — — — — —
+Crossbow, heavy 50 gp 1d8 1d10 19–20/×2 120 ft. 8 lbs. P —
+Bolts, crossbow (10) 1 gp — — — — 1 lb. — —
+Crossbow, light 35 gp 1d6 1d8 19–20/×2 80 ft. 4 lbs. P —
+Bolts, crossbow (10) 1 gp — — — — 1 lb. — —
+Dart 5 sp 1d3 1d4 ×2 20 ft. 1/2 lb. P —
+Javelin 1 gp 1d4 1d6 ×2 30 ft. 2 lbs. P —
+Sling — 1d3 1d4 ×2 50 ft. — B —
+Bullets, sling (10) 1 sp — — — — 5 lbs. — —
+Blowgun 2 gp 1 1d2 ×2 20 ft. 1 lb. P —
+Dart 5 sp 1d3 1d4 ×2 20 ft. 1/2 lb. P —
+Heavy crossbow 50 gp 1d8 1d10 19–20/×2 120 ft. 8 lbs. P —
+Javelin 1 gp 1d4 1d6 ×2 30 ft. 2 lbs. P —
+Light crossbow 35 gp 1d6 1d8 19–20/×2 80 ft. 4 lbs. P —
+Sling — 1d3 1d4 ×2 50 ft. — B —
+Underwater heavy crossbow 100 gp 1d8 1d10 19–20/×2 120 ft. 8 lbs. P —
+Underwater light crossbow 70 gp 1d6 1d8 19–20/×2 80 ft. 4 lbs. P —
+
+
+Martial Weapons Cost Dmg (S) Dmg (M) Critical Range Weight1 Type2 Special
+
+
+Light Melee Weapons
+________________________________________________________________________
+Axe, throwing 8 gp 1d4 1d6 ×2 10 ft. 2 lbs. S —
+Hammer, light 1 gp 1d3 1d4 ×2 20 ft. 2 lbs. B —
+Handaxe 6 gp 1d4 1d6 ×3 — 3 lbs. S —
+Kukri 8 gp 1d3 1d4 18–20/×2 — 2 lbs. S —
+Pick, light 4 gp 1d3 1d4 ×4 — 3 lbs. P —
+Sap 1 gp 1d4 1d6 ×2 — 2 lbs. B nonlethal
+Shield, light special 1d2 1d3 ×2 — special B —
+Spiked armor special 1d4 1d6 ×2 — special P —
+Spiked shield, light special 1d3 1d4 ×2 — special P —
+Starknife 24 gp 1d3 1d4 ×3 20 ft. 3 lbs. P —
+Sword, short 10 gp 1d4 1d6 19–20/×2 — 2 lbs. P —
+Butterfly sword (2) 20 gp 1d3 1d4 19–20/×2 — 1 lb. S Monk
+Dogslicer 8 gp 1d4 1d6 19–20/×2 — 1 lb. S Fragile
+Gladius 15 gp 1d4 1d6 19–20/×2 — 3 lbs. P or S Performance
+Handaxe 6 gp 1d4 1d6 ×3 — 3 lbs. S —
+Iron brush 2 gp 1d2 1d3 ×2 10 ft. — P —
+Jutte 8 gp 1d4 1d6 ×2 — 1 lb. B Disarm, monk
+Kerambit 2 gp 1d2 1d3 ×3 — — S —
+Kukri 8 gp 1d3 1d4 18–20/×2 — 2 lbs. S —
+Light hammer 1 gp 1d3 1d4 ×2 20 ft. 2 lbs. B —
+Light pick 4 gp 1d3 1d4 ×4 — 3 lbs. P —
+Light shield 9 gp 1d2 1d3 ×2 — Special B —
+Lungchuan tamo 5 gp 1d3 1d4 ×2 10 ft. 1 lb. P or S Monk
+Sap 1 gp 1d4 1d6 ×2 — 2 lbs. B Nonlethal
+Shang gou 6 gp 1d3 1d4 ×2 — 1 lb. S Disarm or trip, monk
+Shortsword 10 gp 1d4 1d6 19–20/×2 — 2 lbs. P —
+Spiked armor +50 gp 1d4 1d6 ×2 — Special P —
+Spiked light shield +50 gp 1d3 1d4 ×2 — Special P —
+Starknife 24 gp 1d3 1d4 ×3 20 ft. 3 lbs. P —
+Throwing axe 8 gp 1d4 1d6 ×2 10 ft. 2 lbs. S —
+Tonfa 1 gp 1d4 1d6 ×2 — 1 lb. B Blocking, monk
+Wushu dart 2 sp 1d2 1d3 ×2 10 ft. — P Monk
+
+
+One-Handed Melee Weapons
+_________________________________________________________________________
+Battleaxe 10 gp 1d6 1d8 ×3 — 6 lbs. S —
+Flail 8 gp 1d6 1d8 ×2 — 5 lbs. B disarm, trip
+Longsword 15 gp 1d6 1d8 19–20/×2 — 4 lbs. S —
+Pick, heavy 8 gp 1d4 1d6 ×4 — 6 lbs. P —
+Rapier 20 gp 1d4 1d6 18–20/×2 — 2 lbs. P —
+Scimitar 15 gp 1d4 1d6 18–20/×2 — 4 lbs. S —
+Shield, heavy special 1d3 1d4 ×2 — special B —
+Spiked shield, heavy special 1d4 1d6 ×2 — special P —
+Trident 15 gp 1d6 1d8 ×2 10 ft. 4 lbs. P brace
+Warhammer 12 gp 1d6 1d8 ×3 — 5 lbs. B —
+Battleaxe 10 gp 1d6 1d8 ×3 — 6 lbs. S —
+Double chicken saber 12 gp 1d4 1d6 19–20/×2 — 3 lbs. S Disarm, monk
+Heavy pick 8 gp 1d4 1d6 ×4 — 6 lbs. P —
+Heavy shield 7 gp/20 gp 1d3 1d4 ×2 — Special B —
+Klar 12 gp 1d4 1d6 ×2 — 6 lbs. S See text
+Light flail 8 gp 1d6 1d8 ×2 — 5 lbs. B Disarm, trip
+Longsword 15 gp 1d6 1d8 19–20/×2 — 4 lbs. S —
+Nine-ring broadsword 15 gp 1d6 1d8 ×3 — 4 lbs. S Monk
+Rapier 20 gp 1d4 1d6 18–20/×2 — 2 lbs. P —
+Scimitar 15 gp 1d4 1d6 18–20/×2 — 4 lbs. S —
+Scizore 20 gp 1d8 1d10 ×2 — 3 lbs. P Performance
+Sibat 2 gp 1d4 1d6 ×3 10 ft. 2 lbs. P or S Grapple
+Spiked heavy shield 57 gp/70 gp 1d4 1d6 ×2 — Special P —
+Sword cane 45 gp 1d4 1d6 ×2 — 4 lbs. P —
+Terbutje 5 gp 1d6 1d8 19–20/×2 — 2 lbs. S Fragile
+Trident 15 gp 1d6 1d8 ×2 10 ft. 4 lbs. P Brace
+Warhammer 12 gp 1d6 1d8 ×3 — 5 lbs. B —
+
+
+Two-Handed Melee Weapons
+__________________________________________________________________
+Falchion 75 gp 1d6 2d4 18–20/×2 — 8 lbs. S —
+Glaive 8 gp 1d8 1d10 ×3 — 10 lbs. S reach
+Greataxe 20 gp 1d10 1d12 ×3 — 12 lbs. S —
+Greatclub 5 gp 1d8 1d10 ×2 — 8 lbs. B —
+Flail, heavy 15 gp 1d8 1d10 19–20/×2 — 10 lbs. B disarm, trip
+Greatsword 50 gp 1d10 2d6 19–20/×2 — 8 lbs. S —
+Guisarme 9 gp 1d6 2d4 ×3 — 12 lbs. S reach, trip
+Halberd 10 gp 1d8 1d10 ×3 — 12 lbs. P or S brace, trip
+Lance 10 gp 1d6 1d8 ×3 — 10 lbs. P reach
+Ranseur 10 gp 1d6 2d4 ×3 — 12 lbs. P disarm, reach
+Scythe 18 gp 1d6 2d4 ×4 — 10 lbs. P or S trip
+Bardiche 13 gp 1d8 1d10 19–20/×2 — 14 lbs. S Brace, reach, see text
+Bec de corbin 15 gp 1d8 1d10 ×3 — 12 lbs. B or P Brace, reach, see text
+Bill 11 gp 1d6 1d8 ×3 — 11 lbs. S Brace, disarm, reach, see text
+Earth breaker 40 gp 1d10 2d6 ×3 — 14 lbs. B —
+Falchion 75 gp 1d6 2d4 18–20/×2 — 8 lbs. S —
+Glaive 8 gp 1d8 1d10 ×3 — 10 lbs. S Reach
+Glaive-guisarme 12 gp 1d8 1d10 ×3 — 10 lbs. S Brace, reach, see text
+Greataxe 20 gp 1d10 1d12 ×3 — 12 lbs. S —
+Greatclub 5 gp 1d8 1d10 ×2 — 8 lbs. B —
+Greatsword 50 gp 1d10 2d6 19–20/×2 — 8 lbs. S —
+Guisarme 9 gp 1d6 2d4 ×3 — 12 lbs. S Reach, trip
+Halberd 10 gp 1d8 1d10 ×3 — 12 lbs. P or S Brace, trip
+Heavy flail 15 gp 1d8 1d10 19–20/×2 — 10 lbs. B Disarm, trip
+Hooked lance 3 gp 1d6 1d8 ×4 — 10 lbs. P Reach, trip
+Horsechopper 10 gp 1d8 1d10 ×3 — 12 lbs. P or S Reach, trip
+Lance 10 gp 1d6 1d8 ×3 — 10 lbs. P Reach
+Lucerne hammer 15 gp 1d10 1d12 ×2 — 12 lbs. B or P Brace, reach, see text
+Mattock 12 gp 1d6 2d4 ×4 — 12 lbs. P Fragile
+Monk’s spade 20 gp 1d4/1d4 1d6/1d6 ×2 — 12 lbs. B or P or S Double, monk
+Naginata 35 gp 1d6 1d8 ×4 — 9 lbs. S Reach
+Nodachi 60 gp 1d8 1d10 18–20/×2 — 8 lbs. S or P Brace
+Ogre hook 24 gp 1d8 1d10 ×3 — 10 lbs. P Trip
+Ranseur 10 gp 1d6 2d4 ×3 — 12 lbs. P Disarm, reach
+Rhomphaia 15 gp 1d6 2d4 ×3 — 10 lbs. P or S Brace, fragile, reach
+Sansetsukon 8 gp 1d8 1d10 19–20/×2 — 3 lbs. B Blocking, disarm, monk
+Scythe 18 gp 1d6 2d4 ×4 — 10 lbs. P or S Trip
+Tepoztopilli 8 gp 1d8 1d10 19–20/×2 — 8 lbs. P or S Fragile, reach
+Tiger fork 5 gp 1d6 1d8 ×2 — 8 lbs. P Brace, monk
+Tri-point double-edged sword 12 gp 1d8 1d10 ×3 — 14 lbs. P Reach
+
+Ranged Weapons
+___________________________________________________________________
+Longbow 75 gp 1d6 1d8 ×3 100 ft. 3 lbs. P —
+Arrows (20) 1 gp — — — — 3 lbs. — —
+Longbow, composite 100 gp 1d6 1d8 ×3 110 ft. 3 lbs. P —
+Arrows (20) 1 gp — — — — 3 lbs. — —
+Shortbow 30 gp 1d4 1d6 ×3 60 ft. 2 lbs. P —
+Arrows (20) 1 gp — — — — 3 lbs. — —
+Shortbow, composite 75 gp 1d4 1d6 ×3 70 ft. 2 lbs. P —
+Arrows (20) 1 gp — — — — 3 lbs. — —
+Amentum — 1d4 1d6 ×2 50 ft. 1 lb. P Performance
+Atlatl 2 gp 1d4 1d6 ×2 50 ft. 2 lbs. P —
+Chakram 1 gp 1d6 1d8 ×2 30 ft. 1 lb. S —
+Composite longbow 100 gp 1d6 1d8 ×3 110 ft. 3 lbs. P —
+Composite shortbow 75 gp 1d4 1d6 ×3 70 ft. 2 lbs. P —
+Hunga munga 4 gp 1d4 1d6 ×2 15 ft. 3 lbs. P —
+Longbow 75 gp 1d6 1d8 ×3 100 ft. 3 lbs. P —
+Pilum 5 gp 1d6 1d8 ×2 20 ft. 4 lbs. P See text
+Poisoned sand tube 1 gp Special Special — — 1 lb. — See text
+Shortbow 30 gp 1d4 1d6 ×3 60 ft. 2 lbs. P —
+Tube arrow shooter 3 gp 1d3 1d4 ×2 40 ft. 1/2 lb. P —
+
+
+Exotic Weapons Cost Dmg (S) Dmg (M) Critical Range Weight1 Type2 Special
+
+
+Light Melee Weapons
+______________________________________________________________________
+Kama 2 gp 1d4 1d6 ×2 — 2 lbs. S monk, trip
+Nunchaku 2 gp 1d4 1d6 ×2 — 2 lbs. B disarm, monk
+Sai 1 gp 1d3 1d4 ×2 — 1 lb. B disarm, monk
+Siangham 3 gp 1d4 1d6 ×2 — 1 lb. P monk
+Aklys 5 gp 1d6 1d8 ×2 20 ft. 2 lbs. B Performance, trip
+Dan bong 1 sp 1d2 1d3 19–20/×2 10 ft. — B Blocking, monk,
+see text
+Emei piercer 3 gp 1d2 1d3 19–20/×2 — — P See text
+Fighting fan 5 gp 1d3 1d4 ×3 — — P Distracting, monk
+Kama 2 gp 1d4 1d6 ×2 — 2 lbs. S Monk, trip
+Knuckle axe 9 gp 1d4 1d6 ×3 — 2 lbs. S Monk, performance
+Madu (leather/steel) 40 gp/50 gp 1d3 1d4 ×2 — 5 lbs./6 lbs. P Performance
+Nunchaku 2 gp 1d4 1d6 ×2 — 2 lbs. B Disarm, monk
+Pata 14 gp 1d4 1d6 ×3 — 3 lbs. P Performance
+Quadrens 8 gp 1d4 1d6 19–20/×2 — 2 lbs. P Performance
+Sai 1 gp 1d3 1d4 ×2 — 1 lb. B Disarm, monk
+Scorpion whip 5 gp 1d3 1d4 ×2 — 3 lbs. S Performance
+Siangham 3 gp 1d4 1d6 ×2 — 1 lb. P Monk
+Sica 10 gp 1d4 1d6 ×2 — 2 lbs. S Performance
+Swordbreaker dagger 10 gp 1d3 1d4 ×2 — 3 lbs. S Disarm, see text
+Tekko-kagi 2 gp 1d2 1d3 ×2 — — P Disarm, see text
+Wakizashi 35 gp 1d4 1d6 18–20/×2 — 2 lbs. P or S Deadly
+
+
+One-Handed Melee Weapons
+____________________________________________________________________________
+Sword, bastard 35 gp 1d8 1d10 19–20/×2 — 6 lbs. S —
+Waraxe, dwarven 30 gp 1d8 1d10 ×3 — 8 lbs. S —
+Whip 1 gp 1d2 1d3 ×2 — 2 lbs. S disarm, nonlethal, reach, trip
+Bastard sword 35 gp 1d8 1d10 19–20/×2 — 6 lbs. S —
+Dwarven waraxe 30 gp 1d8 1d10 ×3 — 8 lbs. S —
+Falcata 18 gp 1d6 1d8 19–20/×3 — 4 lbs. S —
+Great terbutje 12 gp 1d8 1d10 19–20/×2 — 4 lbs. S Fragile
+Hooked axe 20 gp 1d6 1d8 ×3 — 7 lbs. S Disarm,
+performance, trip
+Katana 50 gp 1d6 1d8 18–20/×2 — 6 lbs. S Deadly
+Khopesh 20 gp 1d6 1d8 19–20/×2 — 8 lbs. S Trip
+Nine-section whip 8 gp 1d6 1d8 19–20/×2 — 3 lbs. B Blocking, distracting,
+monk, trip
+Rhoka sword 25 gp 1d6 1d8 18–20/×2 — 6 lbs. S —
+Sawtooth sabre 35 gp 1d6 1d8 19–20/×2 — 2 lbs. S —
+Shotel 30 gp 1d6 1d8 ×3 — 3 lbs. P Performance
+Taiaha 10 gp 1d8/1d4 1d10/1d6 ×2/×3 — 8 lbs. B or P Double
+Temple sword 30 gp 1d6 1d8 19–20/×2 — 3 lbs. S Monk, trip
+Urumi 30 gp 1d6 1d8 18–20/×2 — 6 lbs. S Distracting
+Wahaika 3 gp 1d4 1d6 ×2 10 ft. 3 lbs. B Disarm
+Whip 1 gp 1d2 1d3 ×2 — 2 lbs. S Disarm, nonlethal,
+reach, trip
+
+
+Two-Handed Melee Weapons
+_________________________________________________________________________________
+Axe, orc double 60 gp 1d6/1d6 1d8/1d8 ×3 — 15 lbs. S double
+Chain, spiked 25 gp 1d6 2d4 ×2 — 10 lbs. P disarm, trip
+Curve blade, elven 80 gp 1d8 1d10 18–20/×2 — 7 lbs. S —
+Flail, dire 90 gp 1d6/1d6 1d8/1d8 ×2 — 10 lbs. B disarm, double, trip
+Hammer, gnome hooked 20 gp 1d6/1d4 1d8/1d6 ×3/×4 — 6 lbs. B or P double, trip
+Sword, two-bladed 100 gp 1d6/1d6 1d8/1d8 19–20/×2 — 10 lbs. S double
+Urgrosh, dwarven 50 gp 1d6/1d4 1d8/1d6 ×3 — 12 lbs. P or S brace, double
+Bo staff 1 gp 1d4 1d6 ×2 — 3 lbs. B Blocking, double, monk
+Chain spear 15 gp 1d4/1d4 1d6/1d6 ×2 — 13 lbs. P and S Trip
+Dire flail 90 gp 1d6/1d6 1d8/1d8 ×2 — 10 lbs. B Disarm, double, trip
+Double walking stick katana 50 gp 1d4/1d4 1d6/1d6 ×3 — 6 lbs. B Double
+Double-chained kama 8 gp 1d4/1d4 1d6/1d6 ×2 — 4 lbs. S Double, monk,
+reach, trip
+Dwarven urgrosh 50 gp 1d6/1d4 1d8/1d6 ×3 — 12 lbs. P or S Brace, double
+Elven curve blade 80 gp 1d8 1d10 18–20/×2 — 7 lbs. S —
+Flying blade 40 gp 1d10 1d12 ×3 — 12 lbs. S Performance, reach
+Gnome hooked hammer 20 gp 1d6/1d4 1d8/1d6 ×3/×4 — 6 lbs. B or P Double, trip
+Harpoon 5 gp 1d6 1d8 ×3 10 ft. 16 lbs. P Grapple, see text
+Kusarigama 12 gp 1d2/1d4 1d3/1d6 ×2 — 3 lbs. S or B Double, grapple,
+monk, reach, trip
+Kyoketsu shoge 6 gp 1d3 1d4 ×2 20 ft. 1 lb. S or P Disarm, grapple,
+monk, reach
+Mancatcher 15 gp 1 1d2 — — 10 lbs. P Reach, see text
+Meteor hammer 10 gp 1d6 1d8 ×2 — 10 lbs. B Reach, trip
+Orc double axe 60 gp 1d6/1d6 1d8/1d8 ×3 — 15 lbs. S Double
+Seven-branched sword 50 gp 1d8 1d10 ×3 — 7 lbs. S Disarm, monk
+Spiked chain 25 gp 1d6 2d4 ×2 — 10 lbs. P Disarm, trip
+Tetsubo 20 gp 1d8 1d10 ×4 — 10 lbs. B —
+Two-bladed sword 100 gp 1d6/1d6 1d8/1d8 19–20/×2 — 10 lbs. S Double
+
+
+Ranged Weapons
+__________________________________________________________________________________
+Bolas 5 gp 1d3 1d4 ×2 10 ft. 2 lbs. B nonlethal, trip
+Crossbow, hand 100 gp 1d3 1d4 19–20/×2 30 ft. 2 lbs. P —
+Bolts (10) 1 gp — — — — 1 lb. — —
+Crossbow, repeating heavy 400 gp 1d8 1d10 19–20/×2 120 ft. 12 lbs. P —
+Bolts (5) 1 gp — — — — 1 lb. — —
+Crossbow, repeating light 250 gp 1d6 1d8 19–20/×2 80 ft. 6 lbs. P —
+Bolts (5) 1 gp — — — — 1 lb. — —
+Net 20 gp — — — 10 ft. 6 lbs. — —
+Shuriken (5) 1 gp 1 1d2 ×2 10 ft. 1/2 lb. P monk
+Sling staff, halfling 20 gp 1d6 1d8 ×3 80 ft. 3 lbs. B —
+Bullets, sling (10) 1 sp — — — — 5 lbs. — —
+Bolas 5 gp 1d3 1d4 ×2 10 ft. 2 lbs. B Nonlethal, trip
+Boomerang 3 gp 1d4 1d6 ×2 30 ft. 3 lbs. B See text
+Double crossbow 300 gp 1d6 1d8 19–20/×2 80 ft. 18 lbs. P See text
+Halfling sling staff 20 gp 1d6 1d8 ×3 80 ft. 3 lbs. B —
+Hand crossbow 100 gp 1d3 1d4 19–20/×2 30 ft. 2 lbs. P —
+Kestros 1 gp 1d6 1d8 ×3 50 ft. 1 lb. P —
+Lasso 1 sp — — — — 5 lbs. — See text
+Net 20 gp — — — 10 ft. 6 lbs. — See text
+Repeating hand crossbow 800 gp 1d3 1d4 19–20/×2 30 ft. 4 lbs. P —
+Repeating heavy crossbow 400 gp 1d8 1d10 19–20/×2 120 ft. 12 lbs. P —
+Repeating light crossbow 250 gp 1d6 1d8 19–20/×2 80 ft. 6 lbs. P —
+Rope dart 1 gp 1d3 1d4 ×2 20 ft. — P Blocking, distracting,
+monk
+Shuriken (5) 1 gp 1 1d2 ×2 10 ft. 1/2 lb. P Monk
+Snag net 30 gp — — — 10 ft. 10 lbs. P Trip, see text
+Throwing shield +50 gp 1d4 1d6 ×2 20 ft. — B Performance, trip
+
+
+
+
+
+	Armor/Shield Maximum Armor Arcane Spell Speed
+Armor Cost Bonus Dex Bonus Check Penalty Failure Chance 30 ft. 20 ft. Weight1
+_____________________________________________________________________________________
+
+
+Light armor
+________________________________________________
+Padded 5 gp +1 +8 0 5% 30 ft. 20 ft. 10 lbs.
+Leather 10 gp +2 +6 0 10% 30 ft. 20 ft. 15 lbs.
+Studded leather 25 gp +3 +5 –1 15% 30 ft. 20 ft. 20 lbs.
+Chain shirt 100 gp +4 +4 –2 20% 30 ft. 20 ft. 25 lbs.
+Haramaki 3 gp +1 — 0 0% 30 ft. 20 ft. 1 lb.
+Padded 5 gp +1 +8 0 5% 30 ft. 20 ft. 10 lbs.
+Quilted cloth 100 gp +1 +8 0 10% 30 ft. 20 ft. 15 lbs.
+Silken ceremonial 30 gp +1 — 0 0% 30 ft. 20 ft. 4 lbs.
+Lamellar cuirass 15 gp +2 +4 0 5% 30 ft. 20 ft. 8 lbs.
+Leather 10 gp +2 +6 0 10% 30 ft. 20 ft. 15 lbs.
+Parade 25 gp +3 +5 –1 15% 30 ft. 20 ft. 20 lbs.
+Studded leather 25 gp +3 +5 –1 15% 30 ft. 20 ft. 20 lbs
+Wooden 20 gp +3 +3 –1 15% 30 ft. 20 ft. 25 lbs.
+Chain shirt 100 gp +4 +4 –2 20% 30 ft. 20 ft. 25 lbs.
+Lamellar (leather) 60 gp +4 +3 –2 20% 30 ft. 20 ft. 25 lbs.
+
+
+Medium armor
+______________________________________________________
+Hide 15 gp +4 +4 –3 20% 20 ft. 15 ft. 25 lbs.
+Scale mail 50 gp +5 +3 –4 25% 20 ft. 15 ft. 30 lbs.
+Chainmail 150 gp +6 +2 –5 30% 20 ft. 15 ft. 40 lbs.
+Breastplate 200 gp +6 +3 –4 25% 20 ft. 15 ft. 30 lbs.
+Armored coat 50 gp +4 +3 –2 20% 20 ft. 15 ft. 20 lbs.
+Hide 15 gp +4 +4 –3 20% 20 ft. 15 ft. 25 lbs.
+Do-maru 200 gp +5 +4 –4 25% 20 ft. 15 ft. 30 lbs.
+Kikko 30 gp +5 +4 –3 20% 20 ft. 15 ft. 25 lbs.
+Lamellar (horn) 100 gp +5 +3 –4 25% 20 ft. 15 ft. 30 lbs.
+Scale mail 50 gp +5 +3 –4 25% 20 ft. 15 ft. 30 lbs.
+Agile breastplate 400 gp +6 +3 –4 25% 20 ft. 15 ft. 25 lbs.
+Breastplate 200 gp +6 +3 –4 25% 20 ft. 15 ft. 30 lbs.
+Chainmail 150 gp +6 +2 –5 30% 20 ft. 15 ft. 40 lbs.
+Four-mirror 45 gp +6 +2 –5 30% 20 ft. 15 ft. 45 lbs.
+Lamellar (steel) 150 gp +6 +3 –5 25% 20 ft. 15 ft. 35 lbs.
+Mountain pattern 250 gp +6 +3 –4 30% 20 ft. 15 ft. 40 lbs.
+
+
+Heavy armor
+______________________________________________________
+Splint mail 200 gp +7 +0 –7 40% 20 ft.2 15 ft.2 45 lbs.
+Banded mail 250 gp +7 +1 –6 35% 20 ft.2 15 ft.2 35 lbs.
+Half-plate 600 gp +8 +0 –7 40% 20 ft.2 15 ft.2 50 lbs.
+Full plate 1,500 gp +9 +1 –6 35% 20 ft.2 15 ft.2 50 lbs.
+Banded mail 250 gp +7 +1 –6 35% 20 ft.2 15 ft.2 35 lbs.
+Kusari gusoku 350 gp +7 +1 –7 35% 20 ft.2 15 ft.2 45 lbs.
+Lamellar (iron) 200 gp +7 +0 –7 40% 20 ft.2 15 ft.2 50 lbs.
+Splint mail 200 gp +7 +0 –7 40% 20 ft.2 15 ft.2 45 lbs.
+Tatami-do 1,000 gp +7 +3 –6 35% 20 ft.2 15 ft.2 45 lbs.
+Agile half-plate 850 gp +8 +0 –7 40% 20 ft.3 15 ft.3 55 lbs.
+Half-plate 600 gp +8 +0 –7 40% 20 ft.2 15 ft.2 50 lbs.
+Lamellar (stone) 500 gp +8 +0 –7 40% 20 ft.2 15 ft.2 45 lbs.
+O-yoroi 1,700 gp +8 +2 –6 35% 20 ft.2 15 ft.2 45 lbs.
+Full plate 1,500 gp +9 +1 –6 35% 20 ft.2 15 ft.2 50 lbs.
+Stoneplate 1,800 gp +9 +1 –6 35% 15 ft.2 10 ft.2 75 lbs.
+
+
+Shields
+_________________________________________________________
+Buckler 5 gp +1 — –1 5% — — 5 lbs.
+Shield, light wooden 3 gp +1 — –1 5% — — 5 lbs.
+Shield, light steel 9 gp +1 — –1 5% — — 6 lbs.
+Shield, heavy wooden 7 gp +2 — –2 15% — — 10 lbs.
+Shield, heavy steel 20 gp +2 — –2 15% — — 15 lbs.
+Shield, tower 30 gp +43 +2 –10 50% — — 45 lbs.
+Buckler 5 gp +1 — –1 5% — — 5 lbs.
+Klar 12 gp +1 — –1 5% — — 6 lbs.
+Light steel quickdraw 59 gp +1 — –2 5% — — 7 lbs.
+Light steel 9 gp +1 — –1 5% — — 6 lbs.
+Light wooden quickdraw 53 gp +1 — –2 5% — — 6 lbs.
+Light wooden 3 gp +1 — –1 5% — — 5 lbs.
+Madu (leather) 40 gp +1 — –2 5% — — 5 lbs.
+Madu (steel) 50 gp +1 — –2 5% — — 6 lbs.
+Heavy steel 20 gp +2 — –2 15% — — 15 lbs.
+Heavy wooden 7 gp +2 — –2 15% — — 10 lbs.
+Tower 30 gp +44 +2 –10 50% — — 45 lbs.
+
+
+Extras
+___________________________________________________________
+Armor spikes +50 gp — — — — — — +10 lbs.
+Gauntlet, locked 8 gp — — special n/a4 — — +5 lbs.
+Shield spikes +10 gp — — — — — — +5 lbs.
+Armor spikes +50 gp — — — — — — +10 lbs.
+Locked gauntlet +8 gp — — Special N/A5 — — +5 lbs.
+Shield spikes +10 gp — — — — — — +5 lbs
+
+
+Adventuring Gear
+_____________________________
+Backpack (empty) 2 gp 2 lbs.1
+Barrel (empty) 2 gp 30 lbs.
+Basket (empty) 4 sp 1 lb.
+Bedroll 1 sp 5 lbs.1
+Bell 1 gp —
+Blanket, winter 5 sp 3 lbs.1
+Block and tackle 5 gp 5 lbs.
+Bottle, glass 2 gp 1 lb.
+Bucket (empty) 5 sp 2 lbs.
+Caltrops 1 gp 2 lbs.
+Candle 1 cp —
+Canvas (sq. yd.) 1 sp 1 lb.
+Case, map or scroll 1 gp 1/2 lb.
+Chain (10 ft.) 30 gp 2 lbs.
+Chalk, 1 piece 1 cp —
+Chest (empty) 2 gp 25 lbs.
+Crowbar 2 gp 5 lbs.
+Firewood (per day) 1 cp 20 lbs.
+Fishhook 1 sp —
+Fishing net, 25 sq. ft. 4 gp 5 lbs.
+Flask (empty) 3 cp 1-1/2 lbs.
+Flint and steel 1 gp —
+Grappling hook 1 gp 4 lbs.
+Hammer 5 sp 2 lbs.
+Hourglass 25 gp 1 lb.
+Ink (1 oz. vial) 8 gp —
+Inkpen 1 sp —
+Jug, clay 3 cp 9 lbs.
+Ladder, 10-foot 2 sp 20 lbs.
+Lamp, common 1 sp 1 lb.
+Lantern, bullseye 12 gp 3 lbs.
+Lantern, hooded 7 gp 2 lbs.
+Lock
+Simple 20 gp 1 lb.
+Average 40 gp 1 lb.
+Good 80 gp 1 lb.
+Superior 150 gp 1 lb.
+Manacles 15 gp 2 lbs.
+Manacles, masterwork 50 gp 2 lbs.
+Mirror, small steel 10 gp 1/2 lb.
+Mug/Tankard, clay 2 cp 1 lbs.
+Oil (1-pint flask) 1 sp 1 lbs.
+Paper (sheet) 4 sp —
+Parchment (sheet) 2 sp —
+Pick, miner’s 3 gp 10 lbs.
+Pitcher, clay 2 cp 5 lbs.
+Piton 1 sp 1/2 lb.
+Pole, 10-foot 5 cp 8 lbs.
+Pot, iron 8 sp 4 lbs.
+Pouch, belt (empty) 1 gp 1/2 lb.1
+Ram, portable 10 gp 20 lbs.
+Rations, trail (per day) 5 sp 1 lb.1
+Rope, hemp (50 ft.) 1 gp 10 lbs.
+Rope, silk (50 ft.) 10 gp 5 lbs.
+Sack (empty) 1 sp 1/2 lb.1
+Sealing wax 1 gp 1 lbs.
+Sewing needle 5 sp —
+Shovel or spade 2 gp 8 lbs.
+Signal whistle 8 sp —
+Signet ring 5 gp —
+Sledge 1 gp 10 lbs.
+Soap (per lb.) 5 sp 1 lb.
+Spyglass 1,000 gp 1 lb.
+Tent 10 gp 20 lbs.1
+Torch 1 cp 1 lb.
+Vial, ink or potion 1 gp —
+Water clock 1,000 gp 200 lbs.
+Waterskin 1 gp 4 lbs.1
+Whetstone 2 cp 1 lbs.
+Air bladder 1 sp 1/2 lb.
+Alchemist’s kit 40 gp 24 lbs.2
+Animal glue 5 sp 1/2 lb.
+Area map 50 gp 2 lbs.
+Astrolabe 1,000 gp 6 lbs.
+Backpack, common 2 gp 2 lbs.1
+Backpack, masterwork 50 gp 4 lbs.1
+Bandolier 5 sp —
+Banner 1–20 gp 2 lbs.
+Barbarian’s kit 9 gp 26 lbs.2
+Barbed vest 10 gp 4 lbs.
+Bard’s kit 41 gp 33-1/2 lbs.2
+Barrel 2 gp 30 lbs.
+Basket 4 sp 1 lb.
+Bedroll 1 sp 5 lbs.1
+Bell 1 gp —
+Bell net 2 gp 2 lbs.
+Belt pouch 1 gp 1/2 lb.1
+Blanket 5 sp 3 lbs.1
+Block and tackle 5 gp 5 lbs.
+Blue book 5 gp 1 lb.
+Book of letters 50 gp 3 lbs.
+Bottle 2 gp 1 lb.
+Breakaway chains 65 gp 2 lbs.
+Bucket 5 sp 2 lbs.
+Bullseye lantern 12 gp 3 lbs.
+Buoy, common 5 sp 16 lbs.
+Buoy, superior 10 gp 30 lbs.
+Butterfly net 5 gp 2 lbs.1
+Caltrops 1 gp 2 lbs.
+Camouflage netting 20 gp 5 lbs.
+Campsite kit 12 gp 80 lbs.
+Candle 1 cp —
+Candle lamp 5 gp 1 lb.
+Candlestick 1 cp 1/2 lb.
+Canteen 2 gp 1 lb.
+Canvas (sq. yd.) 1 sp 1 lb.
+Cauldron 1 gp 5 lbs.
+ITEM PRICE WEIGHT
+Cauldron, mithral 1,251 gp 2-1/2 lbs.
+Cavalier’s kit 23 gp 112 lbs.2
+Chain (10 ft.) 30 gp 2 lbs.
+Chalk 1 cp —
+Chalkboard 1 gp 2 lbs.
+Chest, small 2 gp 25 lbs.
+Chest, medium 5 gp 50 lbs.
+Chest, large 10 gp 100 lbs.
+Chest, huge 25 gp 250 lbs.
+Chirurgeon’s kit 400 gp 4 lbs.
+Chronicler’s kit 40 gp 4-1/2 lbs.
+Clay 1 sp 1 lb.
+Cleric’s kit 16 gp 32 lbs.2
+Coffee pot 3 gp 4 lbs.
+Coffin, common 10 gp 30 lbs.1
+Coffin, ornate 100 gp 50 lbs.1
+Collapsible bathtub 15 gp 20 lbs.1
+Collapsible plank 4 sp 10 lbs.
+Compass 10 gp 1/2 lb.
+Cooking kit 3 gp 16 lbs.
+Cot 1 gp 30 lbs.1
+Crowbar 2 gp 5 lbs.
+Cypher books 150 gp 2 lbs.
+Dragonslayer’s kit 485 gp 64 lbs.
+Drill 5 sp 1 lb.
+Druid’s kit 14 gp 44 lbs.2
+Dungeoneering kit, common 15 gp 25 lbs.
+Dungeoneering kit, deluxe 130 gp 15 lbs.
+Ear trumpet 5 gp 2 lbs.
+Earplugs 3 cp —
+Entertainer’s kit 5 sp 3 lbs.
+Everburning torch 110 gp 1 lb.
+Fake footprint shoes 5 gp 2 lbs.
+False manacles 65 gp 2 lbs.
+False-bottomed chest 52 gp 25 lbs.
+False-bottomed cup 1 gp —
+False-bottomed scabbard 45 gp 1 lb.
+Familiar satchel 25 gp 6 lbs.
+Fighter’s kit 9 gp 29 lbs.2
+Filter hood 10 gp 4 lbs.1
+Firewood (per day) 1 cp 20 lbs.
+Fishhook 1 sp —
+Fishing kit 5 sp 3 lbs.
+Fishing net 4 gp 5 lbs.
+Flask 3 cp 1-1/2 lbs.
+Flint and steel 1 gp —
+Folding chair 2 gp 10 lbs.1
+Folding ladder 2 gp 16 lbs.
+Folding pole 2 sp 10 lbs.
+Folding table 10 gp 20 lbs.
+Gambler’s kit, common 75 gp 5 lbs.
+Gambler’s kit, cheating 300 gp 5 lbs.
+Gear maintenance kit 5 gp 2 lbs.
+Glass cutter 5 gp —
+Glue paper 1 sp —
+Grappling arrow 1 gp 1/2 lb.
+Grappling hook, common 1 gp 4 lbs.
+Grappling hook, mithral 1,001 gp 2 lbs.
+Grooming kit 1 gp 2 lbs.1
+Gunslinger’s kit 26 gp 31 lbs.
+Gunsmith’s kit 15 gp 2 lbs.
+Hammer 5 sp 2 lbs.
+Hammock 1 sp 3 lbs.1
+Harrow deck 100 gp —
+Helmet candle 2 gp 4 lbs
+Heritage book 50 gp 2 lbs.
+Hip flask 1 gp 1/2 lb.1
+Hollowed pommel 5 gp —
+Holy symbol, wooden 1 gp —
+Holy symbol, iron 5 gp 1 lb.
+Holy symbol, silver 25 gp 1 lb.
+Holy symbol, gold 100 gp 1 lb.
+Holy symbol, platinum 500 gp 1 lb.
+Holy symbol, +5 gp —
+compartment
+Holy symbol, flask +10 gp —
+Holy symbol, tattoo 100 gp —
+Holy text 1–100 gp 1–20 lbs.
+Hooded lantern 7 gp 2 lbs.
+Hourglass (6 seconds) 10 gp —
+Hourglass (1 minute) 20 gp 1/2 lb.
+Hourglass (1 hour) 25 gp 1 lb.
+Ink 8 gp —
+Inkpen 1 sp —
+Inquisitor’s kit 30 gp 34 lbs.2
+Iron spike 5 cp 1 lb.
+Iron vial 1 sp 1 lb.
+Journal 10 gp 1 lb.
+Jug 3 cp 9 lbs.
+Ladder 2 sp 20 lbs.
+Lamp 1 sp 1 lb.
+Lock, simple 20 gp 1 lb.
+Lock, average 40 gp 1 lb.
+Lock, good 80 gp 1 lb.
+Lock, superior 150 gp 1 lb.
+Magnet 5 sp 1/2 lb.
+Magnifying glass 100 gp —
+Magus’s kit 22 gp 31 lbs.2
+Manacles, common 15 gp 2 lbs.
+Manacles, masterwork 50 gp 2 lbs.
+Manacles, mithral 1,000 gp 2 lbs.
+Marbles 1 sp 2 lbs.
+Mess kit 2 sp 1 lb.
+Miner’s pick 3 gp 10 lbs.
+Mirror 10 gp 1/2 lb.
+Mock armor 90 gp 10 lbs.1
+Monk’s kit 8 gp 22 lbs.2
+Mug/tankard 2 cp 1 lb.
+Oil 1 sp 1 lb.
+Oracle’s kit 9 gp 29 lbs.2
+Paladin’s kit 11 gp 30 lbs.2
+ITEM PRICE WEIGHT
+Paper (sheet) 4 sp —
+Parchment (sheet) 2 sp —
+Pathfinder’s kit 12 gp 22 lbs.
+Perfume/cologne 5 gp —
+Periscope 20 gp 4 lbs.
+Pitcher 2 cp 5 lbs.
+Piton 1 sp 1/2 lb.
+Poison pill ring +20 gp —
+Poisoning sheath 50 gp 1 lb.1
+Pole 5 cp 8 lbs.
+Portable bridge 200 gp 60 lbs.
+Portable ram 10 gp 20 lbs.
+Pot, common 8 sp 4 lbs.
+Pot, mithral 1,001 gp 2 lbs.
+Powder 1 cp 1/2 lb.
+Powder horn 3 gp 1 lb.
+Prosthetic (arm) 10 gp 3 lbs.1
+Prosthetic (foot) 1 gp 2 lbs.1
+Prosthetic (hand) 1 gp 1 lb.1
+Prosthetic (leg) 20 gp 6 lbs.1
+Pyrography kit 1 gp 2 lbs.
+Ranger’s kit 9 gp 28 lbs.2
+Rice paper (sheet) 5 cp —
+Riding kit, common 16 gp 54 lbs.
+Riding kit, exotic mount 36 gp 59 lbs.
+Rogue’s kit 50 gp 37 lbs.2
+Rope (50 ft.) 1 gp 10 lbs.
+Sack 1 sp 1/2 lb.1
+Saw 4 cp 2 lbs.
+Sawback sword +5 gp —
+Scrivener’s kit 2 gp 1 lb.
+Scroll box 5 gp 1 lb.
+Scroll case 1 gp 1/2 lb.
+Sealing wax 1 gp 1 lb.
+Sentry mannequin 30 gp 35 lbs.1
+Sewing needle 5 sp —
+Sextant 500 gp 2 lbs.
+Shaving kit 15 sp 1/2 lb.
+Shield sconce 1 gp 1/2 lb.
+Shovel, common 2 gp 8 lbs.
+Shovel, folding 10 gp 12 lbs.
+Signal horn 1 gp 2 lbs.1
+Signal whistle 8 sp —
+Signet ring 5 gp —
+Silent whistle 9 sp —
+Silk rope 10 gp 5 lbs.
+Skeleton key 85 gp —
+Skillet, common 8 sp 4 lbs.
+Skillet, mithral 1,001 gp 2 lbs.
+Sledge 1 gp 10 lbs.
+Smoked goggles 10 gp —
+Snorkel, common 5 sp —
+Snorkel, masterwork 5 gp —
+Soap 1 cp 1/2 lb.
+Sorcerer’s kit 8 gp 19 lbs.2
+Spelunking kit 174 gp 32 lbs.
+Spider’s silk rope (50 ft.) 100 gp 4 lbs.
+Spyglass 1,000 gp 1 lb.
+Stationery 1 gp —
+Stilts, common 2 sp 10 lbs.1
+Stilts, masterwork 5 gp 10 lbs.1
+Stove can 10 gp 1 lb.
+String or twine (50 ft.) 1 cp 1/2 lb.
+Summoner’s kit 8 gp 19 lbs.2
+Survival kit, common 5 gp 4 lbs. 4
+Survival kit, masterwork 50 gp 5 lbs.
+Swarmsuit 20 gp 10 lbs.1
+Tattoo 1 cp–20 gp —
+Teapot 1 sp 1 lb.
+Tent, small 10 gp 20 lbs.1
+Tent, medium 15 gp 30 lbs.1
+Tent, large 30 gp 40 lbs.1
+Tent, pavilion 100 gp 50 lbs.1
+Thurible 50 gp 3 lbs.
+Torch 1 cp 1 lb.
+Traveler’s dictionary 50 gp 2 lbs.
+Troll slayer’s kit 30 sp 17 lbs.
+Undead slayer’s kit 402 gp 7 lbs.
+Vial 1 gp —
+Waffle iron, common 1 gp 5 lbs.
+Waffle iron, mithral 1,260 gp 2-1/2 lbs.
+Water clock 1,000 gp 200 lbs.
+Waterproof bag 5 sp 1/2 lb.
+Waterproof lantern +5 gp —
+Waterskin 1 gp 4 lbs.1
+Wax key blank 15 gp 1/2 lb.
+Weapon cord 1 sp —
+Whetstone 2 cp 1 lb.
+Wire 5 gp 1/2 lb.
+Wire saw, common 30 gp —
+Wire saw, adamantine 150 gp —
+Witch’s kit 21 gp 21 lbs.2
+Wizard’s kit 21 gp 21 lbs.2
+Wrist sheath 1 gp 1 lb.1
+
+
+Special Substances and Items
+______________________________
+Acid (flask) 10 gp 1 lb.
+Alchemist’s fire (flask) 20 gp 1 lb.
+Antitoxin (vial) 50 gp —
+Everburning torch 110 gp 1 lb.
+Holy water (flask) 25 gp 1 lb.
+Smokestick 20 gp 1/2 lb.
+Sunrod 2 gp 1 lb.
+Tanglefoot bag 50 gp 4 lbs.
+Thunderstone 30 gp 1 lb.
+Tindertwig 1 gp —
+
+
+Tolls and Skill Kits
+_______________________________
+Alchemist’s lab 200 gp 40 lbs.
+Artisan’s tools 5 gp 5 lbs.
+Artisan’s tools, masterwork 55 gp 5 lbs.
+Climber’s kit 80 gp 5 lbs.1
+Disguise kit 50 gp 8 lbs.1
+Healer’s kit 50 gp 1 lb.
+Holly and mistletoe — —
+Holy symbol, wooden 1 gp —
+Holy symbol, silver 25 gp 1 lb.
+Magnifying glass 100 gp —
+Musical instrument, common 5 gp 3 lbs.1
+Musical instrument, masterwork 100 gp 3 lbs.1
+Scale, merchant’s 2 gp 1 lb.
+Spell component pouch 5 gp 2 lbs.
+Spellbook, wizard’s (blank) 15 gp 3 lbs.
+Thieves’ tools 30 gp 1 lb.
+Thieves’ tools, masterwork 100 gp 2 lbs.
+Tool, masterwork 50 gp 1 lb.
+Abacus 2 gp 2 lbs.
+Alchemist’s lab 200 gp 40 lbs.
+Alchemy crafting kit 25 gp 50 lbs.
+Antidote kit 100 gp 3 lbs.
+Anvil 5 gp 10–100 lbs.
+Artisan’s tools, common 5 gp 5 lbs.
+Artisan’s tools, masterwork 55 gp 5 lbs.
+Balancing pole 8 sp 12 lbs.
+Bear trap 2 gp 10 lbs.
+Bellows 1 gp 3 lbs.
+Climber’s kit 80 gp 5 lbs.*
+Disguise kit 50 gp 8 lbs.*
+Footprint book 50 gp 3 lbs.
+Forger’s Kit 200 gp 6 lbs.
+Formula book 15 gp 3 lbs.
+Fortune-teller’s deck, common 1 gp 1/2 lb.
+Fortune-teller’s deck, quality 25 gp 1 lb.
+Fortune-teller’s deck, masterwork 50 gp 1 lb.
+Healer’s kit 50 gp 1 lb.
+Juggler’s kit 15 gp 10 lbs.*
+Leeching kit 5 gp 5 lbs.
+Mapmaker’s kit 10 gp 2 lbs.
+Masterwork tool 50 gp 1 lb.
+Merchant’s scale 2 gp 1 lb.
+Midwife’s kit 10 gp 2 lbs.
+Musical instrument, common 5 gp 3 lbs.*
+Musical instrument, masterwork 100 gp 3 lbs.*
+Parasol 1 gp 2 lbs.
+Parasol (umbrella) 2 gp 3 lbs.
+Portable alchemist’s lab 75 gp 20 lbs.
+Portable altar 250 gp 40 lbs.
+Portrait book 10 gp 3 lbs.
+Spell component pouch 5 gp 2 lbs.
+Spellbook 15 gp 3 lbs.
+Stretcher 1 gp 10 lbs.
+Surgeon’s tools 20 gp 5 lbs.*
+Symptom kit 25 gp 5 lbs.
+Thieves’ tools, common 30 gp 1 lb.
+Thieves’ tools, masterwork 100 gp 2 lbs.
+Traveling formula book 10 gp 1 lb.
+Traveling spellbook 10 gp 1 lb.
+Veterinarian’s kit 10 gp 20 lbs.
+
+
+Clothing
+_____________________________________
+Artisan’s outfit 1 gp 4 lbs.1
+Cleric’s vestments 5 gp 6 lbs.1
+Cold-weather outfit 8 gp 7 lbs.1
+Courtier’s outfit 30 gp 6 lbs.1
+Entertainer’s outfit 3 gp 4 lbs.1
+Explorer’s outfit 10 gp 8 lbs.1
+Monk’s outfit 5 gp 2 lbs.1
+Noble’s outfit 75 gp 10 lbs.1
+Peasant’s outfit 1 sp 2 lbs.1
+Royal outfit 200 gp 15 lbs.1
+Scholar’s outfit 5 gp 6 lbs.1
+Traveler’s outfit 1 gp 5 lbs.1
+Artisan’s outfit 1 gp 4 lbs.*
+Brooch Varies —
+Caul 10–100 gp —
+Cleats 5 gp 2 lbs.*
+Cleric’s vestments 5 gp 6 lbs.*
+Cold-weather outfit 8 gp 7 lbs.*
+Courtier’s outfit 30 gp 6 lbs.*
+Decorative trim 1 sp–50 gp —
+Diving suit 10 gp 2 lbs.*
+Entertainer’s outfit 3 gp 4 lbs.*
+Explorer’s outfit 10 gp 8 lbs.*
+Fire-resistant boots 20 gp 2 lbs.*
+Furs 12 gp 5 lbs.*
+Hat 1 sp–50 gp 1/2 lb.–2 lbs.*
+Hennin 10–100 gp 1 lb.*
+Hot weather outfit 8 gp 4 lbs.*
+Ice skates 1 gp 2 lbs.*
+Jewelry Varies Varies
+Kilt 2 sp 1 lb.*
+Mask 1 sp–50 gp 1 lb.*
+Monk’s outfit 5 gp 2 lbs.*
+Monster mask 5–10 gp 1 lb.*
+Noble’s outfit 75 gp 10 lbs.*
+Patchwork cloak 5 gp 1/2 lb.*
+Peasant’s outfit 1 sp 2 lbs.*
+Pickpocket’s outfit 5 gp 3 lbs.*
+Pocketed scarf 8 gp 1/2 lb.*
+Poncho 5 sp 2 lbs.*
+Reinforced scarf 10 gp 1 lb.*
+Reversible cloak 2 sp–100 gp 1 lb.*
+Royal outfit 200 gp 15 lbs.*
+Scarf 1 sp–5 gp 1/2 lb.*
+Scholar’s outfit 5 gp 6 lbs.*
+Skis 5 gp 20 lbs.*
+Snowshoes 5 gp 4 lbs.*
+Soldier’s uniform 1 gp 5 lbs.*
+Tabard 5 gp 1 lb.*
+Tear-away clothing +5 gp —
+Traveler’s outfit 1 gp 5 lbs.*
+Wig 5 gp–500 gp 1/2 lb.–4 lbs.*
+
+
+Food, Drink, and Lodging
+______________________________________
+Ale
+Gallon 2 sp 8 lbs.
+Mug 4 cp 1 lb.
+Banquet (per person) 10 gp —
+Bread, loaf of 2 cp 1/2 lb.
+Cheese, hunk of 1 sp 1/2 lb.
+Inn stay (per day)
+Good 2 gp —
+Common 5 sp —
+Poor 2 sp —
+Meals (per day)
+Good 5 sp —
+Common 3 sp —
+Poor 1 sp —
+Meat, chunk of 3 sp 1/2 lb.
+Wine
+Common (pitcher) 2 sp 6 lbs.
+Fine (bottle) 10 gp 1-1/2 lbs.
+Absinthe (glass) 3 gp —
+Absinthe (bottle) 30 gp 1-1/2 lbs.
+Ale (mug) 4 cp 1 lb.
+Ale (gallon) 2 sp 8 lbs.
+Applejack (mug) 8 cp 1 lb.
+Applejack (gallon) 4 sp 8 lbs.
+Baijiu (bottle) 10 gp 2 lbs.
+Banquet (per person) 10 gp —
+Bread 2 cp 1/2 lb.
+Bufo (jug) 1 gp 2 lbs.
+Cauim (gourd) 1 gp 2 lbs.
+Caviar 50 gp —
+Cheese 1 sp 1/2 lb.
+Chocolate (bar) 5 gp 1/2 lb.
+Coffee (cup) 1 cp 1/2 lb.
+Dwarven stout (mug) 4 cp 1/2 lb.
+Dwarven trail rations 2 gp 1-1/2 lbs.*
+Elven trail rations 2 gp 1 lb.*
+Fortune cookie 1 cp —
+Gnome trail rations 2 gp 1 lb. *
+Grog (mug) 2 cp 1/2 lb.
+Haggis 1 sp 1-1/2 lbs.
+Halfling trail rations 2 gp 1/2 lb.*
+Honey (jar) 1 gp 1/2 lb.
+Ice cream 1 sp —
+Jungle coffee (cup) 3 cp 1/2 lb.
+Kahve (cup) 2 cp 1/2 lb.
+Kumis (wineskin) 5 sp 1-1/2 lbs.
+Maple syrup (jar) 1 gp 1/2 lb.
+Mead (mug) 5 cp 1/2 lb.
+Mead (gallon) 2 gp 8 lbs.
+Meal, poor (per day) 1 sp —
+Meal, common (per day) 3 sp —
+Meal, good (per day) 5 sp —
+Meat 3 sp 1/2 lb.
+Milk 5 cp 1/2 lb.
+Oldlaw whiskey (bottle) 20 gp 1 lb.
+Orc trail rations 1 gp 1 lb.*
+Powdered milk 1 sp 1 lb.
+Pulque (cup) 1 sp 1/2 lb.
+Pulque (wineskin) 4 sp 2 lbs.
+Rumboozle (cup) 1 sp 1/2 lb.
+Sealord wine (bottle) 15 gp 1/2 lb.
+Street meat 1 cp 1/2 lb.
+Tea (cup) 2 cp 1/2 lb.
+Tea, ceremonial (cup) 4 cp 1/2 lb.
+Tea ceremony set 25 gp 5 lbs.
+Tepache (cup) 5 cp 1/2 lb.
+Trail rations 5 sp 1 lb.*
+Travel cake mix 1 sp 1 lb.
+Wandermeal (per day) 1 cp 1/2 lb.*
+Whiskey (cup) 1 sp 1/2 lb.
+Wine, common (pitcher) 2 sp 6 lbs.
+Wine, fine (bottle) 10 gp 1-1/2 lbs.
+Yogurt 1 sp 1/2 lb.
+Bath (cold) 2 cp
+Bath (hot) 6 cp
+Bath (public) 2 sp–1 gp
+Companion 5 cp–10 gp
+Doctor 1 gp
+Footman 5 sp
+Hireling (untrained) 1 sp per day
+Hireling (trained) 3 sp per day
+Inn stay (poor) 2 gp
+Inn stay (common) 5 sp
+Inn stay (good) 2 gp
+Inn suite (small) 4 gp
+Inn suite (average) 16 gp
+Inn suite (luxurious) 32 gp+
+Laundry 1 sp
+Laundry (magic) 1 gp
+Lawyer (novice) 5 sp
+Lawyer (competent) 3 gp
+Lawyer (experienced) 10 gp
+Messenger 2 cp per mile
+Nurse 7 sp
+Road or gate toll 1 cp
+Scribe (text) 1 gp
+Scribe (map) 10 gp
+
+
+Entertanment
+______________________________________
+Ball (2 in.) 8 cp —
+Ball (5 in.) 2 sp —
+Ball (10 in.) 6 gp 1 lb.
+Billiards gear 5 sp 8 lbs.
+Board game 1 sp–10 gp 2 lbs.
+Bowling set 5 sp–10 gp 15 lbs.
+Cards 1 sp–100 gp 1 lb.
+Croquet set 5 sp 10 lbs.
+Crossword 1 cp–1 sp —
+Dartboard set 5 sp 10 lbs.
+Dice 1 sp —
+Dominos 1 sp–25 gp 1 lb.
+Horseshoes game 5 sp 3 lbs.
+Kite 1 sp–2,000 gp 1 lb.–5 lbs.
+Loaded dice, average 10 gp —
+Loaded dice, superior 50 gp —
+Marked cards 1 gp 1 lb.
+Polo gear 5 sp 5 lbs.
+Puzzle box 1 gp–1,000 gp 1 lb.–5 lbs.
+Rounders gear 1 sp 1/2 lb.
+Tennis gear 3 sp 3 lbs.
+
+
+Mounts and Related
+______________________________________
+Barding
+Medium creature ×22 ×12
+Large creature ×42 ×22
+Bit and bridle 2 gp 1 lb.
+Dog, guard 25 gp —
+Dog, riding 150 gp —
+Donkey or mule 8 gp —
+Feed (per day) 5 cp 10 lbs.
+Horse
+Horse, heavy 200 gp —
+Horse, heavy (combat trained) 300 gp —
+Horse, light 75 gp —
+Horse, light (combat trained) 110 gp —
+Pony 30 gp —
+Pony (combat trained) 45 gp —
+Saddle
+Military 20 gp 30 lbs.
+Pack 5 gp 15 lbs.
+Riding 10 gp 25 lbs.
+Saddle, Exotic
+Military 60 gp 40 lbs.
+Pack 15 gp 20 lbs.
+Riding 30 gp 30 lbs.
+Saddlebags 4 gp 8 lbs.
+Stabling (per day) 5 sp —
+
+
+Transport
+________________________________________
+Carriage 100 gp 600 lbs.
+Cart 15 gp 200 lbs.
+Galley 30,000 gp —
+Keelboat 3,000 gp —
+Longship 10,000 gp —
+Rowboat 50 gp 100 lbs.
+Oar 2 gp 10 lbs.
+Sailing ship 10,000 gp —
+Sled 20 gp 300 lbs.
+Wagon 35 gp 400 lbs.
+Warship 25,000 gp —
+
+
+Spellcasting and Services
+_______________________________________
+Coach cab 3 cp per mile
+Hireling, trained 3 sp per day
+Hireling, untrained 1 sp per day
+Messenger 2 cp per mile
+Road or gate toll 1 cp
+Ship’s passage 1 sp per mile
+Spellcasting Caster level × spell level × 10 gp3
+
+
+Pets And familiars
+__________________________________________
+Badger 15 gp 20 lbs.
+Bat 5 gp 1 lb.
+Cat 3 cp 8 lbs.
+Cat, hunting 100 gp 100 lbs.
+Centipede, house 1 cp 3 oz.
+Crab 20 gp 5–7 lbs.
+Dog, lap 15 gp 5 lbs.
+Donkey rat 1 gp 50 lbs
+Fox 8 gp 12 lbs.
+Goat 6 gp 50 lbs.
+Hedgehog 5 gp 3 lbs.
+Lizard 5 cp 2 oz.
+Monkey 3 gp 5 lbs.
+Octopus 25 gp 2 lbs.
+Otter 20 gp 10 lbs.
+Owl 10 gp 1–3 lbs.
+Parrot 50 gp 4 lbs.
+Pig 10 gp 100–300 lbs.
+Pseudodragon 200 gp 7 lbs.
+Rabbit 2 gp 3 lbs.
+Raccoon 5 gp 7 lbs.
+Rat 1 cp 1 lb.
+Rat, dire 5 gp 50 lbs.
+Raven 2 gp 3 lbs.
+Scorpion, greensting 15 gp 9 oz.
+Skunk 10 gp 10 lbs.
+Snake, constrictor 5 gp 60 lbs.
+Snake, viper 5 gp 10 oz.
+Squirrel, common 1 gp 2 lbs.
+Squirrel, flying 20 gp 1 lb.
+Spider 25 gp 8 oz.
+Stirge 20 gp 1 lb.
+Thrush 1 sp 7 oz.
+Toad 2 cp 7 oz.
+Turtle 3 gp 4 lbs.
+Weasel 2 gp 8 oz
+
+
+Alchemical remedies
+_______________________________________________________
+Alchemical grease 5 gp 1 lb. 15
+Alchemist’s kindness 1 gp — 20
+Antiplague 50 gp — 25
+Antitoxin 50 gp — 25
+Bladeguard 40 gp — 15
+Fire ward gel 150 gp 1 lb. 25
+Frost ward gel 150 gp 1 lb. 25
+Meditation tea 30 gp — 20
+Padzahr 80 gp — 25
+Smelling salts 25 gp — 25
+Soothe syrup 25 gp 1/2 lb. 15
+Soul stimulant 300 gp — 30
+Troll oil 50 gp 1 lb. 30
+Twitch tonic 45 gp — 25
+Vermin repellent 5 gp — 20
+Wismuth salix 30 gp — 20
+
+
+Alchemical Tools
+_______________________________________________________
+Alchemical cement 5 gp 2 lbs. 15
+Alchemical glue 20 gp 1/2 lb. 20
+Alchemical glue accelerant 25 gp — 25
+Alchemical solvent 20 gp 1/2 lb. 20
+Armor ointment 30 gp 1 lb. 15
+Blackfire clay 20 gp 10 lbs. 20
+Bloodblock 25 gp — 25
+Buoyant balloon 10 gp 1 lb. 15
+Candlerod 1 gp 1 lb. 20
+Casting plaster 5 sp 5 lbs. —
+Chill cream 15 gp 1 lb. 15
+Defoliant 30 gp — 25
+Embalming fluid 50 gp 10 lbs. 25
+Foaming powder 10 gp 1 lb. 20
+Glowing ink 5 gp — 15
+Impact foam 25 gp 1 lb. 20
+Invisible ink (simple) 2 gp — 15
+Invisible ink (average) 10 gp — 20
+Invisible ink (good) 25 gp — 20
+Invisible ink (superior) 75 gp — 25
+Light detector 1 gp — 10
+Marker dye 15 gp 1 lb. 15
+Mending paste 25 gp 1/2 lb. 25
+Nushadir 10 gp 1 lb. 20
+Rusting powder 60 gp — 30
+Scent cloak 20 gp 2 lbs. 20
+Smoke pellet 25 gp — 20
+Smokestick 20 gp 1/2 lb. 20
+Sunrod 2 gp 1 lb. 25
+Tindertwig 1 gp — 25
+Water purification sponge 25 gp 1 lb. 15
+Weapon blanch (adamantine) 100 gp 1/2 lb. 25
+Weapon blanch (cold iron) 20 gp 1/2 lb. 20
+Weapon blanch (silver) 5 gp 1/2 lb. 20
+
+
+Alchemical Weapons
+_______________________________________________________________
+LIGHT MELEE WEAPONS PRICE DMG CRITICAL RANGE WEIGHT TYPE SPECIAL
+____________________________
+Liquid blade 40 gp 1d6 19–20/×2 — 2 lbs. P Fragile, see text
+
+
+ONE-HANDED MELEE WEAPONS
+_________________________
+Flame fountain firework 100 gp 1d8 ×2 — — Fire See text
+
+
+RANGED WEAPONS
+___________________
+Acid 10 gp 1d6 ×2 10 ft. 1 lb. Acid Splash
+Alchemist’s fire 20 gp 1d6 ×2 10 ft. 1 lb. Fire Splash
+Alkali flask 15 gp 1d6 ×2 10 ft. 1 lb. Acid Splash, see text
+Banshee ballerina firework 75 gp — — 10 ft. — Sonic Area, see text
+Bottled lightning 40 gp 1d8/1 ×2 20 ft. 1 lb. Electricity/sonic See text
+Burst jar 35 gp 1 — 10 ft. 1 lb. Sonic Splash, see text
+Flash powder 50 gp — — 10 ft. — Light Area, see text
+Fuse grenade 100 gp 2d6/1d6 ×2 10 ft. 1 lb. B/fire Area, see text
+Ghast retch flask 50 gp — — 10 ft. 1 lb. Poison Splash, see text
+Holy water 25 gp 2d4 ×2 10 ft. 1 lb. — Splash, see text
+Itching powder 60 gp — — 10 ft. 2 lbs. Poison Splash, see text
+Keros oil 5 gp 1d3 ×2 5 ft. — Fire See text
+Liquid ice 40 gp 1d6 ×2 10 ft. 2 lbs. Cold Splash
+Paper candle firework 1 gp — — 10 ft. — — See text
+Pellet grenade, iron 50 gp 1d6/1d6/1d6 — 10 ft. 1 lb. B/P/fire Area, see text
+Pellet grenade, silver 70 gp 1d6/1d6/1d6 — 10 ft. 1 lb. B/P/fire Area, see text
+Pellet grenade, cold iron 100 gp 1d6/1d6/1d6 — 10 ft. 1 lb. B/P/fire Area, see text
+Pellet grenade, adamantine 150 gp 1d6/1d6/1d6 — 10 ft. 1 lb. B/P/fire Area, see text
+Shard gel 25 gp 1d4 ×2 10 ft. 1 lb. P Splash
+Skyrocket firework 50 gp 2d6 — 10 ft. 1 lb. Fire Areas
+Sneezing powder 60 gp — — 10 ft. 2 lbs. Poison Splash, see text
+Star candle firework 5 gp 1/1 Blindness 5 ft. — Fire/nonlethal See text
+Starfountain firework 500 gp 1d6 — 10 ft. 100 lbs. Fire Area
+Tangleburn bag 150 gp 1d6 — 10 ft. 5 lbs. Fire Entangle, see text
+Tanglefoot bag 50 gp — — 10 ft. 4 lbs. — Entangle
+Thunderstone 30 gp — — 20 ft. 1 lb. Sonic Area, see text
+
+
+
+
+Poisons
+___________________________________________________________________
+Black lotus extract Contact 20 1 min. 1/rd. for 6 rds. 1d6 Con 2 saves 4,500 gp
+Dragon bile Contact 26 — 1/rd. for 6 rds. 1d3 Str — 1,500 gp
+Malyass root paste Contact 16 1 min. 1/min. for 6 min. 1d2 Dex 1 save 250 gp
+Nitharit Contact 13 1 min. 1/min. for 6 min. 1d3 Con 1 save 650 gp
+Sassone leaf residue Contact 16 1 min. 1/min. for 6 min. 2d12 hp/1 Con 1 save 300 gp
+Tears of death Contact 22 1 min. 1/min. for 6 min. 1d6 Con and — 6,500 gp
+paralyzed 1 min.
+Terinav root Contact 16 1 min. 1/min. for 6 min. 1d3 Dex 1 save 400 gp
+Arsenic Ingested 13 10 min. 1/min. for 4 min. 1d2 Con 1 save 120 gp
+Belladonna Ingested 14 10 min. 1/min. for 6 min. 1d2 Str, see text 1 save 100 gp
+Dark reaver powder Ingested 18 10 min. 1/min. for 6 min. 1d3 Con and 1 Str 2 saves 800 gp
+Hemlock Ingested 18 10 min. 1/min. for 6 min. 1d6 Dex, see text 2 saves 2,500 gp
+Id moss Ingested 14 10 min. 1/min. for 6 min. 1d3 Int 1 save 125 gp
+Indigo dreams Ingested 13 10 min. 1/min. for 6 min. 1d3 Wis 2 saves 150 gp
+King’s sleep Ingested 19 1 day 1/day 1 Con drain 2 saves 5,000 gp
+Lich dust Ingested 17 10 min. 1/min. for 6 min. 1d3 Str 2 saves 400 gp
+Oil of taggit Ingested 15 1 min. — Unconscious 1 save 90 gp
+1d3 hrs.
+Striped toadstool Ingested 11 10 min. 1/min. for 4 min. 1d3 Wis and 1 Int 1 save 180 gp
+Wolfsbane Ingested 16 10 min. 1/min. for 6 min. 1d3 Con 1 save 500 gp
+Azure lily pollen Inhaled 15 — 1/min. for 2 min. nauseated 1 min./ 1 save 1,500 gp
+paralyzed 2d4 hrs.
+Burnt othur fumes Inhaled 18 — 1/rd. for 6 rds. 1 Con drain/1d3 Con 2 saves 2,100 gp
+Insanity mist Inhaled 15 — 1/rd. for 6 rds. 1d3 Wis 1 save 1,500 gp
+Nightmare vapor Inhaled 20 — 1/rd. for 6 rds. 1 Wis and 2 saves 1,800 gp
+confused 1 rd.
+Ungol dust Inhaled 15 — 1/rd. for 4 rds. 1 Cha drain/1d2 Cha 1 save 1,000 gp
+Black adder venom Injury 11 — 1/rd. for 6 rds. 1d2 Con 1 save 120 gp
+Bloodroot Injury 12 1 rd. 1/rd. for 4 rds. 1 Con and 1 Wis and 1 save 100 gp
+confusion 1 rd.
+Blue whinnis Injury 14 — 1/rd. for 2 rds. 1 Con/unconscious 1 save 120 gp
+1d3 hrs.
+Deathblade Injury 20 — 1/rd. for 6 rds. 1d3 Con 2 saves 1,800 gp
+Drow poison Injury 13 — 1/min. for 2 min. Unconscious 1 min./ 1 save 75 gp
+2d4 hrs.
+Giant wasp poison Injury 18 — 1/rd. for 6 rds. 1d2 Dex 1 save 210 gp
+Greenblood oil Injury 13 — 1/rd. for 4 rds. 1 Con 1 save 100 gp
+Large scorpion venom Injury 17 — 1/rd. for 6 rds. 1d2 Str 1 save 200 gp
+Medium spider venom Injury 14 — 1/rd. for 4 rds. 1d2 Str 1 save 150 gp
+Purple worm poison Injury 24 — 1/rd. for 6 rds. 1d3 Str 2 saves 700 gp
+Shadow essence Injury 17 — 1/rd. for 6 rds. 1 Str drain/1d2 Str 1 save 250 gp
+Small centipede poison Injury 11 — 1/rd. for 4 rds. 1 Dex 1 save 90 gp
+Wyvern poison Injury 17 — 1/rd. for 6 rds. 1d4 Con 2 saves 3,000 gp
